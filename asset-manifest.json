@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/portifolio/static/css/main.f67d1c6a.css",
-    "main.js": "/portifolio/static/js/main.5181c8aa.js",
+    "main.css": "/portifolio/static/css/main.233c9cf1.css",
+    "main.js": "/portifolio/static/js/main.9d082b83.js",
     "static/js/787.1ed0c42c.chunk.js": "/portifolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/claps.jpg": "/portifolio/static/media/claps.789c4736bbeae5423f37.jpg",
+    "static/media/conferenciaItens.png": "/portifolio/static/media/conferenciaItens.54911c668b50771ab2b0.png",
+    "static/media/monitoramentoExtratos.png": "/portifolio/static/media/monitoramentoExtratos.a62f93b4c5405dba86c0.png",
+    "static/media/automacaoSQL.png": "/portifolio/static/media/automacaoSQL.620c3e6962552d2b38c7.png",
+    "static/media/monitoramentoVendas.png": "/portifolio/static/media/monitoramentoVendas.f3dbbb3e69f7ab3ae0fe.png",
+    "static/media/monitoramentoTickets.png": "/portifolio/static/media/monitoramentoTickets.a05abf75fb462ea219c4.png",
+    "static/media/relatorioSaldos.png": "/portifolio/static/media/relatorioSaldos.679c10c6298fa0162e0d.png",
     "static/media/dev.png": "/portifolio/static/media/dev.ad02d63870968fd4d1e7.png",
     "static/media/engineer.png": "/portifolio/static/media/engineer.dcde7c744ffc4318e557.png",
     "static/media/favicon.ico": "/portifolio/static/media/favicon.dd091ca4c37d795532b0.ico",
     "index.html": "/portifolio/index.html",
-    "main.f67d1c6a.css.map": "/portifolio/static/css/main.f67d1c6a.css.map",
-    "main.5181c8aa.js.map": "/portifolio/static/js/main.5181c8aa.js.map",
+    "main.233c9cf1.css.map": "/portifolio/static/css/main.233c9cf1.css.map",
+    "main.9d082b83.js.map": "/portifolio/static/js/main.9d082b83.js.map",
     "787.1ed0c42c.chunk.js.map": "/portifolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f67d1c6a.css",
-    "static/js/main.5181c8aa.js"
+    "static/css/main.233c9cf1.css",
+    "static/js/main.9d082b83.js"
   ]
 }
