@@ -1,0 +1,38 @@
+.work-done{
+    background-color: #141c3a !important;
+    border-radius: 50px !important;
+    overflow: hidden;
+    text-align: center;
+
+    &:hover{
+        .content{
+            opacity: 100%;
+        }
+
+        img{
+            filter: blur(80px);
+        }
+    }
+    .figure{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .content{
+        position: absolute;
+        transition: 0.5s;
+        opacity: 0%;
+        padding: 5px;
+    }
+    & img{
+        transition: 0.5s;
+    }
+    a, h5{
+        color: $colorWhite;
+        margin-bottom: 1rem;
+        &:hover{
+            color: $colorWhite;
+        }
+    }
+}

@@ -1,0 +1,32 @@
+@import 'constants';
+$borderSize: 2px;
+
+.btn-green{
+    border: $borderSize solid $colorGreen;
+    border-radius: .3em;
+    &:hover{
+        background-color: $colorGreen;
+        color: $colorWhite;
+
+    }
+}
+.btn-blue{
+    background-color: transparent;
+    border: $borderSize solid $colorBtn;
+    border-radius: .3em;
+    padding: 0.6rem;
+    color: $colorBtn;
+
+    &:disabled{
+        opacity: 25%;
+        cursor: default;
+
+    }
+
+    &:hover:not(:disabled){
+        transition: .2s;
+        background-color: $colorBtn;
+        color: $colorWhite !important;
+    }
+
+}

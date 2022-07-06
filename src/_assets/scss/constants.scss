@@ -1,0 +1,30 @@
+$colorBtn: #7510f7;
+$colorBody: #EAF1F5;
+$colorTxt: #1A1F24;
+$colorWhite: #fff;
+$colorback: #000;
+$color3: #546172;
+$color4: #95A5BA;
+$color5: #A7CEED;
+$colorGreen: #0ac90a;
+$colorSections: #141c3a;
+$colorShadown: rgba(0, 0, 0, 0.3);
+$colorProject: #141c3a;
+
+$fontSize1: 1rem;
+$fontSize2: 1.25rem;
+$fontSize3: 1.5rem;
+$fontSize4: 2rem;
+
+
+.bg-blue{
+    background-color: $colorBtn;
+    color: $colorBody;
+}
+.bg-green{
+    background-color: $colorGreen;
+    color: $colorBody;
+}
+.bg-white{
+    background-color: $colorBody;
+}
